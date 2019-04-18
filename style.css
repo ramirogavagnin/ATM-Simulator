@@ -178,13 +178,21 @@ input
         margin-top: 0.2rem;
         font-size: 0.8rem;
     }
+    
     .fas 
     {
         font-size: 1.5rem !important;
     }
+    
     .container-arrow 
     {
         margin-top: 0 !important;
+    }
+
+    #now-loading-text
+    {   
+        padding-top: 34%;
+        font-size: 1rem;
     }
 
 }
@@ -209,14 +217,23 @@ input
         margin-top: 0.2rem;
         font-size: 0.9rem;
     }
+    
     .fas 
     {
         font-size: 1.7rem !important;
     }
+    
     .container-arrow 
     {
         margin-top: 0 !important;
     }
+    
+    #now-loading-text
+    {   
+        padding-top: 32%;
+        font-size: 1.1rem;
+    }
+
 
 }
 
